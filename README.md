@@ -1,5 +1,5 @@
 # Traveling Salesman Problem Solver
-This repository contains Python code to solve the Traveling Salesman Problem (TSP) using a genetic algorithm. The genetic algorithm is a heuristic optimization method inspired by the process of natural selection.
+This repository contains Python code to approximate a solution for the Traveling Salesman Problem (TSP) using a genetic algorithm. The genetic algorithm is a heuristic optimization method inspired by the process of natural selection.
 
 ## About the Traveling Salesman Problem
 The Traveling Salesman Problem (TSP) is a classic optimization problem in which a salesman must visit a set of cities exactly once and return to the starting city, minimizing the total distance traveled. It is an NP-hard problem with applications in logistics, operations research, and computer science.
